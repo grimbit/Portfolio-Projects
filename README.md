@@ -6,5 +6,6 @@ Currently includes only the javascript algorythms and data structure projects.
 
 - [Calculator project](https://github.com/grimbit/calculator)
 
+- [vTuber website](https://github.com/grimbit/AsylaWebsite)
 
 - [SS3D Hub (Still heavily in the works!)](https://github.com/grimbit/SS3Dhub)
